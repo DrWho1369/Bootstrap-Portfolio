@@ -8,13 +8,9 @@
 }
 
 
-.quote {
-    position: relative;
-    align-self: end;
-    justify-self: start;
-}
-
 .carousel-item img {
     background-position: center;
     background-size: cover;
 }
+
+.JumboLogo {
