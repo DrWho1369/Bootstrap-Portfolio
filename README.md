@@ -17,6 +17,14 @@ Welcome to my Bootstrap-powered portfolio project! This project showcases my pro
 - Project Showcase: Explore titled images of applications, with a focus on highlighting the first one.
 - Responsive Layout: Resize the page or view it on different devices to experience Bootstrap's built-in responsive design.
 
+https://github.com/DrWho1369/Bootstrap-Portfolio/assets/125075858/11faa888-4f7b-49da-b99e-fd2a7d5de934
+
+
+
+https://github.com/DrWho1369/Bootstrap-Portfolio/assets/125075858/8e6eed85-1cfa-4c07-904a-351c9281038f
+
+
+
 ## Deployment
 
 This portfolio is deployed using GitHub Pages. Explore it live at [My Portfolio.](https://drwho1369.github.io/Bootstrap-Portfolio)
