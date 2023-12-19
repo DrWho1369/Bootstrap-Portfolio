@@ -7,6 +7,10 @@
     align-items: center;
 }
 
+.button-hover:hover {
+    color: #efebe0;
+    background-color: #b21368;
+}
 
 .carousel-item img {
     background-position: center;
