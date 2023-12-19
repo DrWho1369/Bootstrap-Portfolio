@@ -16,13 +16,41 @@
 .github-static {
     position: fixed;
     bottom: 10px;
-    right: 10px;
+    right: 15px;
     z-index: 10000;
 }
 
 .linkedin-static {
     position: fixed;
     bottom: 10px;
-    left: 10px;
+    left: 15px;
     z-index: 10000;
+}
+
+.white {
+    background-color: #efebe0";
+}
+
+.dark-red {
+    background-color: #b2136821;
+}
+
+.mid-red {
+    background-color: #5F093D;
+}
+
+.hot-pink {
+    background-color: #ff69b486;
+}
+
+.bright-red {
+    background-color: #b21368;
+}
+
+.light-pink {
+    background-color:#d67ba8;
+}
+
+.dark-overlay {
+    background-color: rgba(0, 0, 0, 0.205);
 }
