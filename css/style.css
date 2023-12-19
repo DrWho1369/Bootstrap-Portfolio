@@ -13,4 +13,16 @@
     background-size: cover;
 }
 
-.JumboLogo {
+.github-static {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 10000;
+}
+
+.linkedin-static {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    z-index: 10000;
+}
