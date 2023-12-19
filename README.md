@@ -19,7 +19,7 @@ Welcome to my Bootstrap-powered portfolio project! This project showcases my pro
 
 ## Deployment
 
-This portfolio is deployed using GitHub Pages. Explore it live at My Portfolio.  https://drwho1369.github.io/Bootstrap-Portfolio/
+This portfolio is deployed using GitHub Pages. Explore it live at [My Portfolio.] (https://drwho1369.github.io/Bootstrap-Portfolio)
 
 ## Credits
 
